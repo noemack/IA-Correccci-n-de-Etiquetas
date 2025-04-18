@@ -70,3 +70,9 @@ Texto extraído: GBR-12_
 Carácter faltante completado automáticamente: 3
 
 Texto final corregido: GBR-123
+
+---
+
+## 🔗 Enlace al Proyecto
+
+[Ver el código completo ](https://github.com/noemack/IA-Correccion-de-Etiquetas/blob/main/Etiquetas.ipynb)
